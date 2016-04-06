@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JustForFunClient</string>
+    <string name="ip">IP address</string>
+    <string name="port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="clear">Clear</string>
+</resources>
