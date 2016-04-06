@@ -1,5 +1,5 @@
-# SimpleClientServer
-SimpleClientServer - app for OS Android that simulates the work of the Client-Server model.
+# Simple Client Server Application
+The app is for OS Android that simulates the work of the Client-Server Model.
 
 Features:
 - Client-Server model
