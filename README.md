@@ -9,8 +9,8 @@ Features:
 
 Server:
 
-![Server](http://i.imgur.com/9QGKB0c.jpg)
+<img src="http://i.imgur.com/9QGKB0c.jpg" width="250">
 
 Client:
 
-![Client](http://i.imgur.com/8pUgyMU.jpg)
+<img src="http://i.imgur.com/8pUgyMU.jpg" width="250">
